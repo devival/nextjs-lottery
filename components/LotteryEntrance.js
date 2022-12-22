@@ -108,6 +108,7 @@ export default function LotteryEntrance() {
                     <br></br>
                     <div>Number of Players: {numPlayers}</div>
                     <div>Recent Winner: {recentWinner}</div>
+                    <div>Developed by Devival</div>
                 </div>
             ) : (
                 <div>No Lottery Address Detected</div>
